@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table,th,td{
+    border: 1px black solid;
+    text-align: center;
+}
